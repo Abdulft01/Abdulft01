@@ -25,15 +25,6 @@ I'm currently in my final year, actively learning and working on projects in Web
 - Cloud Computing (AWS)  
 - Resume & Career Prep
 
----
-
-## 📌 Projects Coming Soon
-
-- Portfolio Website  
-- AI-Powered Smart Interview Bot  
-- College Website (Dynamic)  
-- C Sorting & Searching Library  
-- Gym & Travel UI Website (Static)
 
 ---
 
